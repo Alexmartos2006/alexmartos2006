@@ -29,6 +29,9 @@
     <a href="https://www.instagram.com/alexmartos_2006" style="border-radius: 20px;">
   <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
     </a>
+    <a href="https://www.tiktok.com/@alexmartos_2006" style="border-radius: 20px;">
+  <img src="https://img.shields.io/badge/TikTok-%23000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok">
+    </a>
   </div>
 
  <!-- GIF animado -->
