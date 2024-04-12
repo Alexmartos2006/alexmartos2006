@@ -14,12 +14,13 @@
     <li>Novato. 📈👨‍💻</li>
   </ul>
 
-  <!-- Etiqueta para Discord -->
+  <!-- Etiquetas para Discord y Spotify -->
   <div style="display: inline-block; margin-right: 20px;">
     <h2>Acceso rápido</h2>
     <a href="https://discord.com/users/927516089745817610" style="border-radius: 20px;">
       <img src="https://img.shields.io/badge/Discord-%237289da?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
-    <a href=" https://open.spotify.com/playlist/1mB5sEx1PC7usgcIdYbA1R" style="border-radius: 20px;">
+    </a>
+    <a href="https://open.spotify.com/playlist/1mB5sEx1PC7usgcIdYbA1R" style="border-radius: 20px;">
       <img src="https://img.shields.io/badge/Spotify-%231db954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify">
     </a>
   </div>
