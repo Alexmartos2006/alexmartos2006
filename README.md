@@ -23,6 +23,9 @@
     <a href="https://open.spotify.com/playlist/1mB5sEx1PC7usgcIdYbA1R" style="border-radius: 20px;">
       <img src="https://img.shields.io/badge/Spotify-%231db954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify">
     </a>
+     <a href="mailto:martosrey2006@gmail.com" style="border-radius: 20px;">
+      <img src="https://img.shields.io/badge/Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+    </a>
   </div>
 
  <!-- GIF animado -->
