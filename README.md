@@ -14,7 +14,7 @@
     <li>Novato. 📈👨‍💻</li>
   </ul>
 
-  <!-- Etiquetas para Discord y Spotify -->
+  <!-- Etiquetas para Discord, Spotify, Gmail-->
   <div style="display: inline-block; margin-right: 20px;">
     <h2>Acceso rápido</h2>
     <a href="https://discord.com/users/927516089745817610" style="border-radius: 20px;">
@@ -25,6 +25,9 @@
     </a>
      <a href="mailto:martosrey2006@gmail.com" style="border-radius: 20px;">
       <img src="https://img.shields.io/badge/Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+    </a>
+    <a href="https://www.instagram.com/alexmartos_2006" style="border-radius: 20px;">
+  <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
     </a>
   </div>
 
