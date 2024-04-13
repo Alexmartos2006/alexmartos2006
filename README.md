@@ -14,7 +14,7 @@
     <li>Novato. 📈👨‍💻</li>
   </ul>
 
-  <!-- Etiquetas para Discord, Spotify, Gmail-->
+  <!-- Etiquetas para Discord, Spotify, Gmail, TikTok, Instagram-->
   <div style="display: inline-block; margin-right: 20px;">
     <h2>Acceso rápido</h2>
     <a href="https://discord.com/users/927516089745817610" style="border-radius: 20px;">
